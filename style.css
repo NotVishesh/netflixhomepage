@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+}
+img{
+    height: 10%;
+    width: 10%;
+    display: inline-block
+    
+
+}
+#img{
+    margin-left: 70px ;
+}
+
+
+.center{
+    text-align: center;
+
+}
+.idk{
+    display: inline
+}
+.div1{
+    margin-top: 15%;
+    
+    
+}
+button{
+    color: white;
+    background-color: red;
+    border-radius: 10%;
+    width: 100px;
+    height: 32px;
+    border-radius: 10px;
+}
+select{
+    width: 100px;
+    height: 27px;
+    border-radius: 10px;
+    margin-top: 2px;
+}
+.right{
+    float: right;
+    display: inline-block;
+   
+}
+
+.background {
+    position: relative;
+    height: 820px;
+    width: 1500px;
+  }
+  
+  .background::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(assest/DE-en-20230918-popsignuptwoweeks-perspective_alpha_website_large.jpeg);
+    background-repeat: no-repeat;
+    opacity: 0.3;
+  }
+  
+input{
+    width: 400px;
+    height: 35px;
+    border-radius: 10px;
+}
+.text{
+    color: white;
+    font-size: 27px
+    
+}
+h1{
+    font-size: 50px !important;
+}
+.yo{
+    width: 150px;
+    height: 42px;
+    border-radius: 10px;
+}
