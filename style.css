@@ -5,10 +5,6 @@ img{
     height: 70px;
     width: 140px;
     display: inline-block;
-    padding: 0px;
-    
-    
-    
 
 }
 #img{
@@ -54,8 +50,7 @@ select{
     height: 820px;
     /* width: 1500px; */
     background-size: cover;
-    background-position: center center;
-  }
+ }
   
   .background::before {
     content: "";
@@ -66,7 +61,7 @@ select{
     height: 100%;
     background-image: url(assest/DE-en-20230918-popsignuptwoweeks-perspective_alpha_website_large.jpeg);
     background-repeat: no-repeat;
-    opacity: 0.3; 
+    opacity: 0.3;
   }
   
 input{
@@ -86,10 +81,3 @@ h1{
     width: 150px;
     height: 42px;
     border-radius: 10px;
-}
-*{
-    display: flexbox;
-}
-div > div{
-    
-}
